@@ -12,7 +12,7 @@
   <img align="right" src ="https://github-readme-stats.vercel.app/api/pin/?username=khirendra03&repo=pixel-weather">
 </p> -->
 
-![](https://visitor-badge.glitch.me/badge?page_id=khirendra04.khirendra03)
+![](https://visitor-badge.glitch.me/badge?page_id=khirendra03.khirendra03)
 
 <!--
 **khirendra03/khirendra03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
