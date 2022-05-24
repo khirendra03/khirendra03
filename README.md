@@ -14,6 +14,15 @@
 
 ![](https://visitor-badge.glitch.me/badge?page_id=khirendra03.khirendra03)
 
+## 💰You can help me by Donating
+  [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](http://www.paypal.me/khirendra)  
+  [![UPI](https://img.shields.io/badge/UPI-00457C?style=for-the-badge&logo=upi&logoColor=orange)](khirendrapatel@ybl)
+<div align="center">
+
+### Show some ❤️ by starring some of the repositories!
+
+</div>
+
 <!--
 **khirendra03/khirendra03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
